@@ -1,0 +1,12 @@
+diff a/Go Home/Assets/Bram/Wind.cs b/Go Home/Assets/Bram/Wind.cs	(rejected hunks)
+@@ -30,4 +30,10 @@
+             rb.velocity += new Vector3(windForce, 0, 0);
+         }
+     }
++    
++    private void FixedUpdate()
++    {
++        windTime++;
++        Debug.Log(windTime);
++    }
+ }

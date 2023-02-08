@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ad3637b6a1dab4c4fb9620846470a9c1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kenney Future
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9ca8ca55090d45c498b3482728b6a3e1, type: 3}
+  - {fileID: 12800000, guid: 24fc0104630f8904a8b4c761b8dfc62a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

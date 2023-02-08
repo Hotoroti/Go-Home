@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Go Home/Assets/Enemies/Scripts/AnimationEventTriggers.cs.meta
+guid: 594a4334ff7d6b14caf6bed99b0ae8b5
+========
+guid: 70ac969fdf63afb41a684f65795db7c3
+>>>>>>>> Development:Go Home/Assets/Player/Assets/Scripts/DashExplosion.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

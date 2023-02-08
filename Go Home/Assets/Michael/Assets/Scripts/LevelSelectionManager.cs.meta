@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2995cf9acae18d44686d23352bf4237a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - retainer: {fileID: 11400000, guid: 7c7f976c7dbd33e43b45869b5c2a431e, type: 2}
+  - HiddenLevel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
